@@ -1,6 +1,6 @@
 {
   "name": "numbers-that-r-cool",
-  "version": "1.2.0-beta.0",
+  "version": "1.2.0",
   "description": "get numbers that are cool",
   "main": "src/index.js",
   "scripts": {
